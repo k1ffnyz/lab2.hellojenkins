@@ -80,5 +80,19 @@ Pipeline включает следующие этапы:
 Для автоматического запуска сборки был настроен webhook:
 - **Payload URL:**  
 
+## Результаты работы
+
+### Jenkins: успешная сборка
+![Build Success](screenshots/build-success.png)
+
+### Console Output
+![Console Output](screenshots/console-output.png)
+
+### Запущенное приложение
+![App Running](screenshots/app-running.png)
+
+### Webhook автозапуск
+![Webhook](screenshots/webhook-trigger.png)
+
 webhook test
 webhook second test
